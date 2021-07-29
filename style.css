@@ -1,0 +1,30 @@
+.clear-container {
+    border: 2px solid lightskyblue;
+    margin: 20px;
+    padding: 20px;
+    width:fit-content;
+}
+
+.orange-container {
+    border: 2px solid lightskyblue;
+    background-color: rgb(238, 126, 85);
+    margin: 20px;
+    padding: 20px;
+    width:fit-content;
+}
+
+.blue-button button {
+    height: 50px;
+    width: 50px;
+    background-color: lightskyblue;
+    border: none;
+    margin: 5px;
+}
+
+.purple-button button {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(145, 44, 145);
+    border: none;
+    margin: 5px;
+}
